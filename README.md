@@ -3,7 +3,7 @@
 
 <!-- Buy me a cup of coffe -->
 <a href='https://ko-fi.com/A406JCM' style='margin:13px;' target='_blank' align="right"><img align="right" height='36' src='https://az743702.vo.msecnd.net/cdn/kofi4.png?v=f' alt='Buy Me a Coffee at ko-fi.com' /></a>
-<a href='https://play.google.com/store/apps/details?id=com.vansuita.materialabout.sample&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target='_blank' align="right"><img align="right" height='36' src='https://s20.postimg.org/muzx3w4jh/google_play_badge.png' alt='Get it on Google Play' /></a>
+<a href='https://play.google.com/store/apps/details?id=com.ducslectures.vimal.ducslectures' target='_blank' align="right"><img align="right" height='36' src='https://s20.postimg.org/muzx3w4jh/google_play_badge.png' alt='Get it on Google Play' /></a>
 # VIMALCVS AboutPage
 
 
@@ -34,7 +34,7 @@ It was built to make your life easier when introducing you to your users, and al
 
 # Setup
 
-This library requires `minSdkVersion` to be set to `14` or above, like the [Official Support Library](https://developer.android.com/topic/libraries/support-library/index.html#api-versions).
+This library requires `minSdkVersion` to be set to `16` or above, like the [Official Support Library](https://developer.android.com/topic/libraries/support-library/index.html#api-versions).
 
 #### Step #1. Add the JitPack repository to your build file:
 
@@ -47,16 +47,16 @@ allprojects {
 }
 ```
 
-#### Step #2. Add the dependency ([See latest release](https://jitpack.io/#jrvansuita/MaterialAbout)).
+#### Step #2. Add the dependency ([See latest release](https://jitpack.io/#vimal/AboutPage)).
 
 ```groovy
 dependencies {
-       compile 'com.github.vimalcvs:MaterialAbout:+'
+       compile 'com.github.vimalcvs:AboutPage:+'
 }
 ```
 # Implementation
 
-Create a [AboutView](/library/src/main/java/com/vansuita/materialabout/views/AboutView.java) instance with [AboutBuilder](/library/src/main/java/com/vansuita/materialabout/builder/AboutBuilder.java).
+Create a [AboutView](/library/src/main/java/com/vimalcvs/aboutpage/views/AboutView.java) instance with [AboutBuilder](/library/src/main/java/com/vimalcvs/aboutpage/builder/AboutBuilder.java).
 ```java
 @Override
 protected void onCreate(Bundle savedInstanceState) {
@@ -113,7 +113,6 @@ View lastActionView = view.findItem(builder.getLastAction());
 
 * [com.android.support:appcompat-v7](https://developer.android.com/topic/libraries/support-library/packages.html#v7-appcompat)
 * [com.android.support:cardview-v7](https://developer.android.com/topic/libraries/support-library/packages.html#v7-cardview)
-* [com.github.jrvansuita:IconHandler](https://github.com/jrvansuita/IconHandler)
 
 #
 
