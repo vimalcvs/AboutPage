@@ -1,0 +1,18 @@
+<resources>
+    <string name="website">Веб-сайт</string>
+    <string name="version">Версия %s</string>
+    <string name="error">Ошибка</string>
+
+    <string name="rate_five_stars">Оцените приложение</string>
+    <string name="more_apps">Больше моих приложений</string>
+    <string name="share_app">Поделиться этим приложением</string>
+    <string name="update_app">Обновить приложение</string>
+    <string name="feedback_app">Связь со мной</string>
+    <string name="introduce_app">Интродукция к приложению</string>
+    <string name="changelog">Список изменений</string>
+    <string name="remove_ads">Убрать рекламу</string>
+    <string name="donate">Поддержать</string>
+    <string name="help">Помощь</string>
+    <string name="privacy">Политика конфиденциальности</string>
+
+</resources>

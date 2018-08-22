@@ -1,0 +1,18 @@
+<resources>
+    <string name="google_play_games">Google Play Juegos</string>
+    <string name="website">Web</string>
+    <string name="email">Correo electrónico</string>
+    <string name="version">Versión %s </string>
+
+    <string name="rate_five_stars">Calificar esta app con 5 estrellas</string>
+    <string name="more_apps">Mis otras aplicaciones</string>
+    <string name="share_app">Compartir app</string>
+    <string name="update_app">Actualizar esta app</string>
+    <string name="feedback_app">Dame tu opinión </string>
+    <string name="introduce_app">Introducir la aplicación</string>
+    <string name="changelog">Registro de cambios</string>
+    <string name="remove_ads">Eliminar anuncios</string>
+    <string name="donate">Dona</string>
+    <string name="help">Ayuda</string>
+    <string name="privacy">Política de privacidad</string>
+</resources>

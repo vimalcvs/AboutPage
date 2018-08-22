@@ -1,0 +1,35 @@
+<resources>
+    <string name="github">GitHub</string>
+    <string name="facebook">Facebook</string>
+    <string name="instagram">Instagram</string>
+    <string name="twitter">Twitter</string>
+    <string name="contacts">Contact</string>
+    <string name="google">Google</string>
+    <string name="google_plus">Google +</string>
+    <string name="google_play_store">Play Store</string>
+    <string name="google_play_games">Play Games</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="whastapp">Whatsapp Group</string>
+    <string name="skype">Skype</string>
+    <string name="youtube">Youtube</string>
+    <string name="android">Android</string>
+    <string name="dribbble">Dribbble</string>
+    <string name="website">Website</string>
+    <string name="email">Email</string>
+    <string name="version">Version %s</string>
+    <string name="error">Error</string>
+
+    <string name="rate_five_stars">Rate this app 5 stars</string>
+    <string name="more_apps">More apps from me</string>
+    <string name="share_app">Share this app</string>
+    <string name="update_app">Update this app</string>
+    <string name="feedback_app">Give me a feedback</string>
+    <string name="introduce_app">Introduce the app</string>
+    <string name="changelog">ChangeLog</string>
+    <string name="license">License</string>
+    <string name="remove_ads">Remove ads</string>
+    <string name="donate">Donate</string>
+    <string name="help">Help</string>
+    <string name="privacy">Privacy Policy</string>
+
+</resources>

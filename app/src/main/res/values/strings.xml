@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CollEdge</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About Us</string>
+
+    <string name="activity_Syllabus">Syllabus</string>
+    <string name="activity_Lab_Program">Lab\'s Program</string>
+    <string name="activity_Question_Paper">Question Paper</string>
+    <string name="activity_Short_Notes">Short Notes</string>
+</resources>
