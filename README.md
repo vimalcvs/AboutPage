@@ -51,7 +51,7 @@ allprojects {
 
 ```groovy
 dependencies {
-       compile 'com.github.vimalcvs:AboutPage:+'
+       implementation 'com.github.vimalcvs:AboutPage:+'
 }
 ```
 # Implementation
